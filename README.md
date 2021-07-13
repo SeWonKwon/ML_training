@@ -28,4 +28,4 @@
 * Task: binary classification
 * Feature: 국민 자료 
 * source: Kaggle
-* Algorithm: [Classification](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Titanic/01_Titanic%20Dataset%20information.ipynb),
+* Algorithm: [Various](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Titanic/01_Titanic%20Dataset%20information.ipynb),
