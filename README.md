@@ -2,6 +2,12 @@
 
 
 
+## Santander Customer Satisfaction
+* Task : Binary classification
+* Feature : feature is anonymized
+* source : Kaggle
+* Algorithm : [Ensemble]()
+
 ## Activity Recognition
 
 * Task : classification
