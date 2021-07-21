@@ -4,7 +4,7 @@
 
 ## Santander Customer Satisfaction
 
-* Task : Binary classification
+* Task : Binary Classification
 * Feature : feature is anonymized
 * source : [Kaggle](https://www.kaggle.com/c/santander-customer-satisfaction/data)
 * Algorithm : [Ensemble]()
@@ -18,21 +18,21 @@
 
 ## Personal Loan
 
-* Task: binary classification
+* Task: Binary Classification
 * Feature: 
 * source: Kaggle
 * Algorithm:
 
 ## Pima Indians Diabetes
 
-* Task: binary classification
+* Task: Binary Classification
 * Feature: missing_value filled with somethingelse
 * source: Kaggle
 * Algorithm:[Logistic w Binarizer](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Pima%20Indians%20Diabetes/02_Pima%20Indian%20diabetes%20by%20%EA%B3%B5%EB%A3%A1.ipynb), [KNN](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Pima%20Indians%20Diabetes/03_Pima%20Indian%20Diabates_%20KNN.ipynb)
 
 ## Titanic
 
-* Task: binary classification
+* Task: Binary Classification
 * Feature: 국민 자료 
 * source: Kaggle
 * Algorithm: [Various](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Titanic/01_Titanic%20Dataset%20information.ipynb),
