@@ -1,6 +1,10 @@
 # ML_training
 
-
+## Credit Card Fraud
+* Task : Binary Classification
+* Feature : Unbalanced Target
+* source : [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+* Algorithm : [XGBoost & LightGBM]()
 
 ## Santander Customer Satisfaction
 
