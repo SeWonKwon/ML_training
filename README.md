@@ -5,9 +5,9 @@
 ## Santander Customer Satisfaction
 
 * Task : Binary Classification
-* Feature : feature is anonymized
-* source : [Kaggle](https://www.kaggle.com/c/santander-customer-satisfaction/data)
-* Algorithm : [Ensemble]()
+* Feature : feature is anonymized, [EDA](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Santander%20Customer%20Satisfaction/02_EDA.ipynb)
+* source : [Kaggle](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Santander%20Customer%20Satisfaction/01_data%20information.ipynb)
+* Algorithm : [XGBoost & LightGBM](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Santander%20Customer%20Satisfaction/03_Model%20XGB%20LIghtGBM.ipynb)
 
 ## Activity Recognition
 
