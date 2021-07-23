@@ -2,9 +2,9 @@
 
 ## Credit Card Fraud
 * Task : Binary Classification
-* Feature : Unbalanced Target
+* Feature : [Unbalanced Target](), [EDA by scaler](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/CreditCardFraud/03_df%20depend%20on%20scaler.ipynb), 
 * source : [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-* Algorithm : [XGBoost & LightGBM]()
+* Algorithm : [Logistic & LightGBM](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/CreditCardFraud/02_preprocessing%20eda%20modeling%20by%20%EA%B3%B5%EB%A3%A1.ipynb)
 
 ## Santander Customer Satisfaction
 
