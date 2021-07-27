@@ -6,6 +6,10 @@
 * source : [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 * Algorithm : [Logistic & LightGBM](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/CreditCardFraud/02_preprocessing%20eda%20modeling%20by%20%EA%B3%B5%EB%A3%A1.ipynb)
 
+
+## 
+
+
 ## Santander Customer Satisfaction
 
 * Task : Binary Classification
