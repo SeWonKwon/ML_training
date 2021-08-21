@@ -9,7 +9,9 @@
 
 ## Bike Sharing Demand
 * Task : regression
-* Feature :
+* Feature : 
+* source : 
+* Algorithm : 
 
 
 ## Santander Customer Satisfaction
