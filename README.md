@@ -9,9 +9,9 @@
 
 ## Bike Sharing Demand
 * Task : regression
-* Feature : 
-* source : 
-* Algorithm : 
+* Feature : Datetime
+* source : [Kagle](https://www.kaggle.com/c/bike-sharing-demand)
+* Algorithm : [Regression & Regresion Tree](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/D01_Regression.ipynb)
 
 
 ## Santander Customer Satisfaction
