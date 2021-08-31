@@ -1,6 +1,13 @@
 # ML_training
 
-## Credit Card Fraud
+
+## [House Price](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/House%20Prices)
+* Task : Regression
+* Feature : log1p trans, outlier elimination, vaiable algorithm
+* source : [Kaggle]( https://www.kaggle.com/c/house-prices-advanced-regression-techniques )
+* Algorithm : LinearRegressor, RegressionTree, StackingRegressor
+
+## [Credit Card Fraud](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/CreditCardFraud)
 * Task : Binary Classification
 * Feature : [Unbalanced Target](), [EDA by scaler](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/CreditCardFraud/03_df%20depend%20on%20scaler.ipynb), 
 * source : [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
@@ -14,14 +21,14 @@
 * Algorithm : [Regression & Regresion Tree](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/D01_Regression.ipynb)
 
 
-## Santander Customer Satisfaction
+## [Santander Customer Satisfaction](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Santander%20Customer%20Satisfaction)
 
 * Task : Binary Classification
 * Feature : feature is anonymized, [EDA](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Santander%20Customer%20Satisfaction/02_EDA.ipynb)
 * source : [Kaggle](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Santander%20Customer%20Satisfaction/01_data%20information.ipynb)
 * Algorithm : [XGBoost & LightGBM](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Santander%20Customer%20Satisfaction/03_Model%20XGB%20LIghtGBM.ipynb)
 
-## Activity Recognition
+## [Activity Recognition](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Activity%20Recognition)
 
 * Task : classification
 * Feature : duplicated Column name handling
