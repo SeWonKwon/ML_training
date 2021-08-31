@@ -1,5 +1,20 @@
 # ML_training
 
+1. [House Price](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/House%20Prices)
+2. [Credit Card Fraud](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/CreditCardFraud)
+3. [Bike Sharing Demand](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Bike%20Sharing%20Demand)
+4. [Santander Customer Satisfaction](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Santander%20Customer%20Satisfaction)
+5. [Activity Recognition](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Activity%20Recognition)
+6. [Personal Loan](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Personal%20Loan) *Not finished*
+7. [Pima Indians Diabetes](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Pima%20Indians%20Diabetes)
+8. [Titanic](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Titanic)
+
+
+
+
+
+
+
 
 ## [House Price](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/House%20Prices)
 * Task : Regression
@@ -35,21 +50,21 @@
 * source : UCI 
 * Algorithm : [DecisionTree](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Activity%20Recognition/02_%20Model%20from%20UCI%20by%20%EA%B3%B5%EB%A3%A1.ipynb), 
 
-## Personal Loan
+## [Personal Loan](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Personal%20Loan)
 
 * Task: Binary Classification
 * Feature: 
 * source: Kaggle
 * Algorithm:
 
-## Pima Indians Diabetes
+## [Pima Indians Diabetes](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Pima%20Indians%20Diabetes)
 
 * Task: Binary Classification
 * Feature: missing_value filled with somethingelse
 * source: Kaggle
 * Algorithm:[Logistic w Binarizer](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Pima%20Indians%20Diabetes/02_Pima%20Indian%20diabetes%20by%20%EA%B3%B5%EB%A3%A1.ipynb), [KNN](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Pima%20Indians%20Diabetes/03_Pima%20Indian%20Diabates_%20KNN.ipynb)
 
-## Titanic
+## [Titanic](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Titanic)
 
 * Task: Binary Classification
 * Feature: 국민 자료 
