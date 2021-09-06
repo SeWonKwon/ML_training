@@ -17,7 +17,7 @@
 
 
 ## [House Price](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/House%20Prices)
-* Task : Regression
+* Task : [Regression]()
 * Feature : log1p trans, outlier elimination, vaiable algorithm
 * source : [Kaggle]( https://www.kaggle.com/c/house-prices-advanced-regression-techniques )
 * Algorithm : LinearRegressor, RegressionTree, StackingRegressor
