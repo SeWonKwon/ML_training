@@ -13,10 +13,10 @@
 
 
 ## [Online Retail](https://github.com/SeWonKwon/ML_training/tree/main/UCI/online_retail)
-* Task : Classification, Clustering
-* Feature : Sequential, Time-Series
+* Task : Customer Segmentation( Clustering )
+* Feature : Sequential, Time-Series, log1p trans
 * source : [UCI](https://archive.ics.uci.edu/ml/datasets/online+retail)
-* Algorithm : Clustering
+* Algorithm : Clustering(RFM based)
 
 
 
