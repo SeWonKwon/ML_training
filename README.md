@@ -1,5 +1,5 @@
 # ML_training
-
+1. [Online Retail](https://github.com/SeWonKwon/ML_training/tree/main/UCI/online_retail)
 1. [House Price](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/House%20Prices)
 2. [Credit Card Fraud](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/CreditCardFraud)
 3. [Bike Sharing Demand](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Bike%20Sharing%20Demand)
@@ -12,7 +12,11 @@
 
 
 
-
+## [Online Retail](https://github.com/SeWonKwon/ML_training/tree/main/UCI/online_retail)
+* Task : Classification, Clustering
+* Feature : Sequential, Time-Series
+* source : [UCI](https://archive.ics.uci.edu/ml/datasets/online+retail)
+* Algorithm : Clustering
 
 
 
