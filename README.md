@@ -9,8 +9,14 @@
 7. [Pima Indians Diabetes](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Pima%20Indians%20Diabetes)
 8. [Titanic](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Titanic)
 9. [Opinion Review](https://github.com/SeWonKwon/ML_training/tree/main/UCI/Opinosis_review)
+10. [Mercari price suggestion](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Mercari%20price%20suggestion) *Not finished*
 
 
+## [Mercari price suggestion](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Mercari%20price%20suggestion)
+* Task :
+* Feature : NLP
+* source : [Kaggle](https://www.kaggle.com/c/mercari-price-suggestion-challenge/data)
+* Algorithm : 
 
 ## [Opinion Review](https://github.com/SeWonKwon/ML_training/tree/main/UCI/Opinosis_review)
 * Task : Document Clustering
