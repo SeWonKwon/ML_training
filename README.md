@@ -8,9 +8,15 @@
 6. [Personal Loan](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Personal%20Loan) *Not finished*
 7. [Pima Indians Diabetes](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Pima%20Indians%20Diabetes)
 8. [Titanic](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Titanic)
+9. [Opinion Review](https://github.com/SeWonKwon/ML_training/tree/main/UCI/Opinosis_review)
 
 
 
+## [Opinion Review](https://github.com/SeWonKwon/ML_training/tree/main/UCI/Opinosis_review)
+* Task : Document Clustering
+* Feature : NLP('english')
+* source : [UCI](https://archive.ics.uci.edu/ml/datasets/Opinosis+Opinion+%26frasl%3B+Review),[Githup_csv](https://raw.githubusercontent.com/SeWonKwon/ML_training/main/UCI/Opinosis_review/data/topics.csv)
+* Algorithm : Clustering(Kmeans)
 
 ## [Online Retail](https://github.com/SeWonKwon/ML_training/tree/main/UCI/online_retail)
 * Task : Customer Segmentation( Clustering )
