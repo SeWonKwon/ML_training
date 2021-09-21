@@ -13,8 +13,8 @@
 
 
 ## [Mercari price suggestion](https://github.com/SeWonKwon/ML_training/tree/main/Kaggle/Mercari%20price%20suggestion)
-* Task :
-* Feature : NLP
+* Task : Regression
+* Feature : NLP, Skewed Target(log1p trans),
 * source : [Kaggle](https://www.kaggle.com/c/mercari-price-suggestion-challenge/data)
 * Algorithm : 
 
